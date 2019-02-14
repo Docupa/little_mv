@@ -12,9 +12,9 @@
     + blue
     + red
 
-控制部分动作取决于结构设计，结构图[这里看]()
+控制部分动作取决于结构设计，结构图[这里看](https://github.com/Docupa/little_mv/tree/master/structure)
 
-电路帮助芯片控制，电路图[这里看]()
+电路帮助芯片控制，电路图[这里看](https://github.com/Docupa/little_mv/tree/master/circuit)
 
 整体采用两个芯片，分别负责对应的工作
 
